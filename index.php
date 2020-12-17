@@ -25,10 +25,7 @@ if(isset($_GET['message'])){
         <img src="public/image/avatar.png"><br>
         <form action="" method="POST">
             <div class="form-group">
-                <input type="text" class="form-control" name="inputemail" aria-describedby="emailHelp" placeholder="Email" autocomplete="off">
-            </div>
-            <div class="form-group">
-                <input type="password" class="form-control" name="inputpassword" placeholder="Password">
+                <input type="text" class="form-control" name="inputnim" aria-describedby="emailHelp" placeholder="NIM" autocomplete="off">
             </div>
             <div class="form-group">
             <a href="views/login_dosen.php">

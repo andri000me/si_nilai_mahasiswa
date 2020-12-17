@@ -9,6 +9,10 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
 </head>
 <body>
+<?php
+$nid = $_GET['nid'];
+
+?>
 <nav class="bg-light shadow-sm text-center">
     <div class="row" style="padding-top: 10px;padding-bottom: 10px;">
         <div class="col">
@@ -18,12 +22,18 @@
                 </a>
             </h3>
         </div>
+
         <div class="col">
+            <h3>
+                <a href="dosen/profil.php?nid=<?php echo $nid;?>">
+                    PROFIL
+                </a>
+            </h3>
         </div>
         <div class="col">
             <h3>
-                <a href="dosen/profil.php">
-                    PROFIL
+                <a href="../index.php">
+                    LOGOUT
                 </a>
             </h3>
         </div>

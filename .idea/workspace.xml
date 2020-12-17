@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="788c7dca-f7c3-4705-b7af-4b2598185590" name="Default Changelist" comment="" />
+    <list default="true" id="788c7dca-f7c3-4705-b7af-4b2598185590" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/login_mahasiswa_controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/controller/login_mahasiswa_controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/dosen/profil.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/dosen/profil.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/tampilan_dosen.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/tampilan_dosen.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +22,9 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lgT1TGFP01O87fOm2lUVPIi9J2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -47,7 +56,10 @@
       <workItem from="1608017521022" duration="907000" />
       <workItem from="1608018468742" duration="3983000" />
       <workItem from="1608022537062" duration="7354000" />
-      <workItem from="1608031821448" duration="6661000" />
+      <workItem from="1608031821448" duration="6878000" />
+      <workItem from="1608087679190" duration="600000" />
+      <workItem from="1608094954236" duration="34000" />
+      <workItem from="1608100503737" duration="5287000" />
     </task>
     <servers />
   </component>
@@ -55,10 +67,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="428" y="139" key="FileChooserDialogImpl" timestamp="1608031817279">
+    <state x="428" y="139" key="FileChooserDialogImpl" timestamp="1608094988570">
       <screen x="0" y="0" width="1296" height="768" />
     </state>
-    <state x="428" y="139" key="FileChooserDialogImpl/0.0.1296.768@0.0.1296.768" timestamp="1608031817279" />
+    <state x="428" y="139" key="FileChooserDialogImpl/0.0.1296.768@0.0.1296.768" timestamp="1608094988570" />
     <state x="482" y="307" key="NewPhpFileDialog" timestamp="1608036551796">
       <screen x="0" y="0" width="1296" height="768" />
     </state>
@@ -73,7 +85,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/views/tampilan_dosen.php</url>
-          <line>52</line>
+          <line>62</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
